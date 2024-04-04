@@ -1,4 +1,4 @@
-Hi I'm Mohamed-Amine-Jmal
+Hi I'm Mohamed Amine Jmal
 # 💫 About Me:
 🔭 I’m currently working on improving a 64-bit kernel hoping to implement multithreading to it<br>👯 I’m looking to collaborate on any projects that will sharpen my skills<br>🌱 I’m currently learning computer networking and operating systems<br>
 
