@@ -1,7 +1,7 @@
 Hi I'm Mohamed Amine Jmal
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me9ded&label=Profile%20views&color=0e75b6&style=flat" alt="me9ded" /> </p>
 # 💫 About Me:
-🔭 I’m currently working on multiple projects that cover different fields<br>👯 I’m looking to collaborate on any projects that will sharpen my skills<br>🌱 I’m currently learning Computer Networking as well as System Design<br>
+🔭 I’m currently working on multiple projects that cover different fields<br>👯 I’m looking to collaborate on any projects that will sharpen my skills<br>🌱 I’m developing a compiler to deepen my understanding of the C language<br>
 
 
 ## 🌐 Socials:
